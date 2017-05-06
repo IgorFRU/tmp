@@ -2,4 +2,11 @@ h1 {
 	color: red;
 	width: 500px;
 	display: block;
+	background: #212121;
+	cursor: pointer;
+	text-align: center;
+}
+h1:hover{
+	background: #919191;
+	color: #212121;
 }
